@@ -1,0 +1,6 @@
+name: BeatsCombatLogger
+version: 1.0.0
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
+author: QuiltedTuba2798
+main: Lambo\CombatLogger\Main
+description: Beats Combat Logger
